@@ -60,6 +60,17 @@ This project demonstrates how raw, unstructured data can be transformed into cle
 * Customer segmentation enables identification of high-value segments for targeted marketing
 
 ---
+## 📊 Data Visualization
+
+### Income vs Spending
+
+![Income Analysis](images/income.png)
+
+### Education vs Income
+![Education](images/education_income.png)
+
+### Marital Status vs Spending
+![Marital](images/marital_spending.png)
 
 ## 📁 Project Structure
 
