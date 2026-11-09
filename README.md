@@ -1,6 +1,6 @@
-# 📌 Mini Data Cleaner & Customer Analysis
+#  Mini Data Cleaner & Customer Analysis
 
-## 📖 Description
+##  Description
 
 End-to-end data cleaning and customer segmentation project built with Python and pandas.
 
@@ -8,7 +8,7 @@ This project demonstrates how raw, unstructured data can be transformed into cle
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Data cleaning (missing values, duplicates, formatting)
 * Outlier detection and handling (Income anomalies)
@@ -24,7 +24,7 @@ This project demonstrates how raw, unstructured data can be transformed into cle
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas
@@ -33,26 +33,26 @@ This project demonstrates how raw, unstructured data can be transformed into cle
 
 ---
 
-## ⚙️ ETL Pipeline
+##  ETL Pipeline
 
-### 🔹 Extract
+###  Extract
 
 * Load raw dataset from CSV source
 
-### 🔹 Transform
+###  Transform
 
 * Data cleaning and normalization
 * Missing value handling (median imputation)
 * Outlier detection using business rules and statistical methods
 * Feature engineering to enhance analytical capabilities
 
-### 🔹 Load
+###  Load
 
 * Export processed dataset to a clean CSV file for downstream use
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 * Higher education levels (PhD, Master) correlate with higher income
 * High-income customers contribute significantly more to total revenue
@@ -60,7 +60,7 @@ This project demonstrates how raw, unstructured data can be transformed into cle
 * Customer segmentation enables identification of high-value segments for targeted marketing
 
 ---
-## 📊 Data Visualization
+##  Data Visualization
 
 ### Income vs Spending
 
@@ -72,7 +72,7 @@ This project demonstrates how raw, unstructured data can be transformed into cle
 ### Marital Status vs Spending
 ![Marital](images/marital_spending.png)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 data_cleaner/
@@ -87,7 +87,7 @@ data_cleaner/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Install dependencies:
 
@@ -105,7 +105,7 @@ jupyter notebook
 
 ---
 
-## 💡 Business Value
+##  Business Value
 
 This project showcases how data pipelines can support:
 
@@ -116,7 +116,7 @@ This project showcases how data pipelines can support:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Convert pipeline into a CLI tool
 * Automate data validation and reporting
